@@ -9,13 +9,6 @@
     tools:context="com.price.corporativa.Login"
     tools:ignore="MergeRootFrame" >
 
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:contentDescription="@string/nada"
-        android:src="@drawable/cabezera" />
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
