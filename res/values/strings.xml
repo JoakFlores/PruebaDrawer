@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Corporativa</string>
+    <string name="action_settings">Settings</string>
+    <string name="nada"></string>
+    <string name="numempleado">Número Empleado</string>
+    <string name="contrasena">Contraseña</string>
+    <string-array name="menu_ini">
+        <item >Checklist</item>
+        <item >Otros Items</item>
+        <item >Salir</item>
+    </string-array>
+
+</resources>
